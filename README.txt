@@ -2,7 +2,7 @@
 Contributors: Phailendra Deo
 Requires at least: 3.0.1
 Tested up to: 5.5
-Stable tag: 4.3
+Stable tag: 5.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,16 +21,12 @@ This section describes how to install the plugin and get it working.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. To display the NFL team list on the frontend. Copy the following Shortcode and paste it on your content editor.
    
-   ```
-   [nfl-team-list]
-   ```
-
+[nfl-team-list]
+   
 4. To display team from particular conference and/or division, use attributes `conference="conference_name" and/or 	`division="division_name"`:
 
-	```
-	[nfl-team-list conference="National Football Conference" division="North"]
-	```
-
+[nfl-team-list conference="National Football Conference" division="North"]
+	
 == DEMO ==
 
 Please visit this link to view the demo https://dev-testpdeo.pantheonsite.io/
