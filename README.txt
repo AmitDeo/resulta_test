@@ -21,11 +21,15 @@ This section describes how to install the plugin and get it working.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. To display the NFL team list on the frontend. Copy the following Shortcode and paste it on your content editor.
    
-   ```[nfl-team-list]```
+   ```
+   [nfl-team-list]
+   ```
 
 4. To display team from particular conference and/or division, use attributes `conference="conference_name" and/or 	`division="division_name"`:
 
-	```[nfl-team-list conference="National Football Conference" division="North"]```
+	```
+	[nfl-team-list conference="National Football Conference" division="North"]
+	```
 
 == DEMO ==
 
